@@ -56,14 +56,18 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 ### Making a Progressive Web App
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+![WhatsApp Image 2025-03-05 at 19 13 25_32f4cc5e](https://github.com/user-attachments/assets/3e233f80-759c-4a4f-b0cb-b265ac6789d3)
 
-### Advanced Configuration
+### Advanced Configuration![WhatsApp Image 2025-03-05 at 19 13 08_f70627fb](https://github.com/user-attachments/assets/f606f7f4-452e-4a68-869e-53b1e9f88429)
+
+![WhatsApp Image 2025-03-06 at 12 02 16_509306b8](https://github.com/user-attachments/assets/3f2c7e39-5051-4616-8642-29c8460c05f4)
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
 ### Deployment
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+![WhatsApp Image 2025-03-06 at 12 02 16_509306b8](https://github.com/user-attachments/assets/1445d483-1378-4887-9934-4a97faf45703)
 
 ### `npm run build` fails to minify
 
