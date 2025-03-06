@@ -1,0 +1,24 @@
+.statistics-container {
+    background-color: #f0f8f8;
+    padding: 20px;
+    border-radius: 8px;
+    text-align: left;
+  }
+  
+  .month-label {
+    font-size: 12px;
+    color: gray;
+  }
+  
+  .stats-box {
+    background-color: #f4c542;
+    padding: 15px;
+    border-radius: 8px;
+    display: inline-block;
+  }
+  
+  .stats-box p {
+    margin: 5px 0;
+    font-size: 16px;
+  }
+  
